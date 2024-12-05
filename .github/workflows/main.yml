@@ -1,4 +1,4 @@
-name: Pipeline
+name: Main Pipeline
 
 run-name: Run triggered by ${{ github.actor }}
 
