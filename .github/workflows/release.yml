@@ -2,7 +2,6 @@ name: Release Pipeline
 
 run-name: Release triggered by ${{ github.actor }}
 
-# on: [push, workflow_dispatch]
 on:
   push:
     tags:
